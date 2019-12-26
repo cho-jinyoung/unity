@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 //윗몸 일으키기 1번 버튼
-
+//1번 버튼은 그냥 버튼의 모양만 있음 
 public class upbutton_1 : MonoBehaviour  
 {
     // Start is called before the first frame update
